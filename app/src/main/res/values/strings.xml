@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpeedQuiz</string>
+    <string name="parametre">Paramètres</string>
+    <string name="question">Questions</string>
+    <string name="txtV_jr_1">Joueur 1</string>
+    <string name="txtV_jr_2">Joueur 2</string>
+    <string name="speedQuiz">SpeedQuiz</string>
+    <string name="play">JOUER</string>
+    <string name="retour">RETOUR</string>
+    <string name="pt_jr">0</string>
+    <string name="pseudo_jr_1">Joueur 1</string>
+    <string name="pseudo_jr_2">Joueur 2</string>
+    <string name="para_questions_ferq">Fréquence du temps de réponse</string>
+    <string name="para_night_mode">Night mode</string>
+    <string name="oui">OUI</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SQ" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/salmon_red_color</item>
+    </style>
+    <style name="text_titre" parent="Theme.MaterialComponents">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/text_titre_color</item>
+    </style>
+    <style name="text" parent="Theme.MaterialComponents">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+    <style name="edit_text_style" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/salmon_red_color</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+    <style name="main_layout_style" parent="Theme.MaterialComponents">
+        <item name="backgroundTint">@color/background_main_color</item>
+    </style>
+</resources>
